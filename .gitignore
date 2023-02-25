@@ -7,6 +7,7 @@ __pycache__/
 *.so
 MLP_training_set.csv
 logs
+artifact
 
 # Distribution / packaging
 .Python
